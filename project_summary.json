@@ -1,0 +1,16 @@
+{
+  "project_name": "EASI_RAG_Industrial_SME_Knowledge_Assistant",
+  "project_type": "nlp",
+  "completion_time": "2025-08-30T20:48:23.250793",
+  "total_tasks": 10,
+  "completed_tasks": 9,
+  "failed_tasks": 1,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/EASI_RAG_Industrial_SME_Knowledge_Assistant"
+}
